@@ -1,0 +1,14 @@
+<settings>
+	<setting id="enabled" value="1" />
+	<setting id="activate_source" value="1" />
+	<setting id="wake_devices" value=" 0" />
+	<setting id="standby_devices" value=" 0 15" />
+	<setting id="cec_standby_screensaver" value="0" />
+	<setting id="standby_pc_on_tv_standby" value="0" />
+	<setting id="use_tv_menu_language" value="1" />
+	<setting id="physical_address" value="1300" />
+	<setting id="cec_hdmi_port" value="" />
+	<setting id="connected_device" value="5" />
+	<setting id="port" value="" />
+	<setting id="send_inactive_source" value="1" />
+</settings>
